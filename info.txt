@@ -1,1 +1,1 @@
-Toto je defaultni obsah repozitare.
+Zmena ve feature vetvi.
