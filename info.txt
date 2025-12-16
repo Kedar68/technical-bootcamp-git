@@ -2,3 +2,4 @@ Zmena v main vetvi.
 +
 Zmena ve feature vetvi.
 
+commit v masteru
